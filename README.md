@@ -5,15 +5,18 @@ The local version of PBIPred (A machine learning based preterm brain injury pred
 ```
 git clone https://github.com/2019012971/PBIPred.git
 cd PBIPred
-conda env create -f environment.yml -n PBIPred
+conda create -n PBIPred python=3.9
 conda activate PBIPred
+pip install pycaret pycaret[full]
 ```
 # 2. Data preprocessing
-Please prepare a csv file to be used as input, an example is called "input_template.csv".
+Kindly prepare a comma-separated values (CSV) file to be utilised as input. An illustrative example is provided in the file designated "input_template.csv".
 # 3. Predict your own file
 ```
+# The result is on the 'results.csv'
 python predict.py --input input_template.csv --output results.csv
 ```
+# 4. Detailed usage
 ```
 usage: predict.py [-h] [--input INPUT] [--output OUTPUT]
 

@@ -1,6 +1,6 @@
 **English** | [中文](https://pbipred.liaolab.net/PBIPred_for_Chinese_users)
-# PBIPred
-PBIPred: A machine learning based preterm brain injury predictor
+# PBIPred tool
+The local version of PBIPred (A machine learning based preterm brain injury predictor) for multiple samples.
 # 1. Environment
 ```
 git clone https://github.com/2019012971/PBIPred.git

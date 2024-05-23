@@ -3,6 +3,7 @@
 The local version of PBIPred (A machine learning based preterm brain injury predictor) for multiple samples.
 # 1. Environment
 ```
+# Please run these commands in terminal and install anaconda/miniconda first
 git clone https://github.com/2019012971/PBIPred.git
 cd PBIPred
 conda create -n PBIPred python=3.9

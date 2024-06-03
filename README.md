@@ -1,5 +1,5 @@
 **English** | [中文](https://pbipred.liaolab.net/PBIPred_for_Chinese_users)
-# PBIPred tool
+# PBIPred Tool
 The local version of PBIPred (A machine learning based preterm brain injury predictor) for multiple samples.
 # 1. Environment
 ```

@@ -28,5 +28,5 @@ optional arguments:
   --input INPUT    Input csv file path
   --output OUTPUT  Output csv file path
 ```
-# 4. Webserver
+# 5. Webserver
 The webserver version of PBIPred is provided at [http://pbipred.liaolab.net](http://pbipred.liaolab.net).
